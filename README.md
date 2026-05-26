@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Harsh Rajvardhan 👋
 
-<!--
-**meharshrajvardhan/meharshrajvardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA (Cloud Computing) student and Java Full Stack Developer passionate about building scalable backend applications and cloud-based solutions.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java 17
+- Spring Boot
+- Hibernate & JPA
+- REST APIs
+- PostgreSQL & MySQL
+- Azure Cloud
+- Azure Cosmos DB
+- Azure Blob Storage
+- Maven
+- Git & GitHub
+
+---
+
+##  Currently Working On
+
+- Java Backend Development
+- Spring Boot Projects
+- Cloud Computing & Azure Services
+- Microservices Architecture
+- REST API Development
+
+---
+
+##  Learning
+
+- Azure Cloud Services
+- Spring Security & JWT
+- Docker & Kubernetes
+- Microservices
+- System Design
+
+---
+
+## Working on Projects
+
+### 🔹 Azure Cosmos DB Java Demo
+Java application demonstrating Azure Cosmos DB integration using Azure SDK and Maven.
+
+### 🔹 Azure Blob Storage Java Demo
+Cloud storage project showcasing file upload, listing, and download operations using Azure Blob Storage.
+
+### 🔹 Fraud Detection Microservices System
+Microservices-based backend system using Spring Boot and cloud technologies.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/meharshrajvardhan
+- LinkedIn:https://www.linkedin.com/in/harshrajvardhangupta/
+
+---
+
+⭐ Always learning and building new things in Java and Cloud technologies.
