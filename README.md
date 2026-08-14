@@ -1,137 +1,167 @@
 # Hi, I'm Harsh Rajvardhan 👋
 
-MCA (Cloud Computing) student and aspiring **Java Backend Developer** focused on building secure backend applications, cloud-native solutions, and AI-assisted systems.
+Aspiring **Java Backend Developer** and MCA (Cloud Computing) student with hands-on experience building secure backend applications, cloud-native solutions, and AI-assisted systems.
 
-##  Tech Stack
+I focus on developing scalable REST APIs, backend services, cloud integrations, and production-style applications using Java, Spring Boot, PostgreSQL, Docker, Azure, and related technologies.
+
+## 🚀 Tech Stack
+
+### Backend Development
 
 * Java 21
 * Spring Boot
-* Spring Security & JWT
+* Spring MVC
+* Spring Security
+* JWT Authentication
 * Hibernate / JPA
 * REST APIs
-* PostgreSQL & MySQL
-* Docker
+* JDBC
+* Maven
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* Azure Cosmos DB
+
+### Cloud & DevOps
+
 * Microsoft Azure
 * Azure Container Apps
 * Azure Kubernetes Service (AKS)
-* Azure Cosmos DB
+* Azure Container Registry
 * Azure Blob Storage
-* Maven
-* Git & GitHub
+* Azure Database for PostgreSQL
+* Docker
+* Kubernetes
+* Git
+* GitHub
+
+### Additional Technologies
+
 * Python
 * Matplotlib
-
----
-
-##  Currently Working On
-
-* Java Backend Development
-* Spring Boot REST APIs
-* Cloud-Native Application Development
-* Docker & Kubernetes
-* Azure Services
-* Microservices Architecture
-* AI-Assisted Applications
-
----
-
-##  Currently Learning
-
-* Microservices Design Patterns
-* System Design
+* Microservices
 * Redis
-* Advanced Docker & Kubernetes
-* Azure Cloud Architecture
+* React
+* JavaScript
+* HTML
+* CSS
 * Responsible AI
-* LLM / RAG Integration
+* Human-in-the-Loop Systems
+* RAG Fundamentals
+* Salesforce CRM Integration
 
 ---
 
-##  Featured Projects
+## 💻 Featured Projects
 
 ### 🔹 NetSage-AI — AI-Assisted Network Troubleshooting System
 
-AI-assisted network troubleshooting prototype with human-in-the-loop validation and Responsible AI safeguards.
+AI-assisted network troubleshooting prototype designed to analyze network incidents and recommend probable root causes, affected OSI layers, diagnostic commands, and remediation steps.
 
+* Implemented human-in-the-loop validation with Accepted, Edited, and Rejected review workflows
 * Evaluated across 30 network troubleshooting scenarios
-* 24 Accepted, 5 Edited, 1 Rejected
-* 80% AI-Human Agreement Rate
-* Automated Matplotlib dashboard for review, severity, and issue analytics
+* Achieved 80% AI-human agreement on the current evaluation dataset
+* Added Responsible AI safeguards and review logging
+* Developed automated Matplotlib dashboards for review outcomes, severity, and issue distribution
 
-**Tech:** Python, Matplotlib, Networking, Human-in-the-Loop, Responsible AI, Git
+**Tech:** Python, Matplotlib, Networking, Responsible AI, Human-in-the-Loop, Git
 
 ---
 
 ### 🔹 Cloud-Native Order Management System
 
-Full-stack Order Management System built with Java 21, Spring Boot, React, PostgreSQL, and Azure.
+Production-style full-stack Order Management System designed using secure backend architecture and cloud-native technologies.
 
-* Secure REST APIs
-* JWT authentication and role-based access
-* PostgreSQL persistence using Hibernate / JPA
-* Dockerized deployment workflow
-* Azure Container Apps integration
+* Developed 15+ secure REST APIs for order and inventory operations
+* Implemented JWT authentication and role-based authorization
+* Designed persistence using PostgreSQL, Hibernate, and Spring Data JPA
+* Built ADMIN and USER access workflows
+* Dockerized the application for container-based deployment
+* Worked with Azure Container Apps and Azure Database for PostgreSQL
 
-**Tech:** Java 21, Spring Boot, Spring Security, JWT, PostgreSQL, React, Docker, Azure
+**Tech:** Java 21, Spring Boot, Spring Security, JWT, Hibernate, PostgreSQL, React, Docker, Azure
 
 ---
 
-### 🔹 CareFlow AI Agent
+### 🔹 CareFlow AI Agent — Healthcare Appointment & Lead Management System
 
-Healthcare appointment and lead-management system built using Java and Spring Boot.
+Healthcare-focused backend application designed to assist with patient interactions, appointments, department recommendations, and lead management.
 
-* Appointment scheduling
-* Patient assistance
-* Department recommendations
-* Lead qualification
-* Salesforce CRM integration
+* Developed REST APIs using Java and Spring Boot
+* Implemented appointment and patient interaction workflows
+* Added department recommendation and lead qualification logic
+* Integrated Salesforce CRM for lead-management workflows
 
-**Tech:** Java 21, Spring Boot, REST APIs, JPA, Salesforce
+**Tech:** Java 21, Spring Boot, REST APIs, JPA, Salesforce CRM
 
 ---
 
 ### 🔹 Azure Blob Storage Integration
 
-Java application demonstrating Azure Blob Storage integration.
+Spring Boot application demonstrating integration with Azure Blob Storage.
 
 * File upload
 * File download
 * File listing
 * File deletion
+* Azure Storage SDK integration
 
-**Tech:** Java, Spring Boot, Azure Storage SDK
+**Tech:** Java, Spring Boot, Azure Blob Storage, Azure SDK
 
 ---
 
 ### 🔹 Azure Cosmos DB Java Demo
 
-Java application demonstrating Azure Cosmos DB for NoSQL integration using the Azure SDK.
+Java application demonstrating Azure Cosmos DB for NoSQL integration.
+
+* Database and container creation
+* Item insertion
+* Azure SDK integration
+* Maven-based project configuration
 
 **Tech:** Java, Azure Cosmos DB, Maven
 
 ---
 
-## ☁️ Cloud & DevOps Practice
+## ☁️ Cloud & Platform Experience
 
-Hands-on experience with:
+Hands-on practice with:
 
 * Azure Container Apps
-* Azure Kubernetes Service (AKS)
+* Azure Kubernetes Service
 * Azure Container Registry
-* Azure Database for PostgreSQL
 * Azure Cosmos DB
 * Azure Blob Storage
+* Azure Database for PostgreSQL
 * Docker
 * Kubernetes
-* GitHub
+* Containerized application deployment
+* Persistent storage
+* ConfigMaps and Secrets
+* Application monitoring and troubleshooting
 
 ---
 
-##  Connect With Me
+## 🎯 Areas of Interest
+
+* Java Backend Engineering
+* Cloud-Native Application Development
+* Microservices Architecture
+* Distributed Systems
+* REST API Design
+* AI-Assisted Applications
+* Responsible AI
+* Cloud & DevOps Engineering
+
+---
+
+## 📫 Connect With Me
 
 * **GitHub:** https://github.com/meharshrajvardhan
 * **LinkedIn:** https://www.linkedin.com/in/harshrajvardhangupta/
 
 ---
 
-⭐ Building practical backend, cloud, and AI-assisted projects while continuously improving software engineering skills.
+⭐ Focused on building practical backend, cloud-native, and AI-assisted applications with clean architecture and reliable engineering practices.
