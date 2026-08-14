@@ -1,60 +1,137 @@
 # Hi, I'm Harsh Rajvardhan 👋
 
-MCA (Cloud Computing) student and Java Full Stack Developer passionate about building scalable backend applications and cloud-based solutions.
+MCA (Cloud Computing) student and aspiring **Java Backend Developer** focused on building secure backend applications, cloud-native solutions, and AI-assisted systems.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
-- Java 17
-- Spring Boot
-- Hibernate & JPA
-- REST APIs
-- PostgreSQL & MySQL
-- Azure Cloud
-- Azure Cosmos DB
-- Azure Blob Storage
-- Maven
-- Git & GitHub
+* Java 21
+* Spring Boot
+* Spring Security & JWT
+* Hibernate / JPA
+* REST APIs
+* PostgreSQL & MySQL
+* Docker
+* Microsoft Azure
+* Azure Container Apps
+* Azure Kubernetes Service (AKS)
+* Azure Cosmos DB
+* Azure Blob Storage
+* Maven
+* Git & GitHub
+* Python
+* Matplotlib
 
 ---
 
 ##  Currently Working On
 
-- Java Backend Development
-- Spring Boot Projects
-- Cloud Computing & Azure Services
-- Microservices Architecture
-- REST API Development
+* Java Backend Development
+* Spring Boot REST APIs
+* Cloud-Native Application Development
+* Docker & Kubernetes
+* Azure Services
+* Microservices Architecture
+* AI-Assisted Applications
 
 ---
 
-##  Learning
+##  Currently Learning
 
-- Azure Cloud Services
-- Spring Security & JWT
-- Docker & Kubernetes
-- Microservices
-- System Design
+* Microservices Design Patterns
+* System Design
+* Redis
+* Advanced Docker & Kubernetes
+* Azure Cloud Architecture
+* Responsible AI
+* LLM / RAG Integration
 
 ---
 
-## Working on Projects
+##  Featured Projects
+
+### 🔹 NetSage-AI — AI-Assisted Network Troubleshooting System
+
+AI-assisted network troubleshooting prototype with human-in-the-loop validation and Responsible AI safeguards.
+
+* Evaluated across 30 network troubleshooting scenarios
+* 24 Accepted, 5 Edited, 1 Rejected
+* 80% AI-Human Agreement Rate
+* Automated Matplotlib dashboard for review, severity, and issue analytics
+
+**Tech:** Python, Matplotlib, Networking, Human-in-the-Loop, Responsible AI, Git
+
+---
+
+### 🔹 Cloud-Native Order Management System
+
+Full-stack Order Management System built with Java 21, Spring Boot, React, PostgreSQL, and Azure.
+
+* Secure REST APIs
+* JWT authentication and role-based access
+* PostgreSQL persistence using Hibernate / JPA
+* Dockerized deployment workflow
+* Azure Container Apps integration
+
+**Tech:** Java 21, Spring Boot, Spring Security, JWT, PostgreSQL, React, Docker, Azure
+
+---
+
+### 🔹 CareFlow AI Agent
+
+Healthcare appointment and lead-management system built using Java and Spring Boot.
+
+* Appointment scheduling
+* Patient assistance
+* Department recommendations
+* Lead qualification
+* Salesforce CRM integration
+
+**Tech:** Java 21, Spring Boot, REST APIs, JPA, Salesforce
+
+---
+
+### 🔹 Azure Blob Storage Integration
+
+Java application demonstrating Azure Blob Storage integration.
+
+* File upload
+* File download
+* File listing
+* File deletion
+
+**Tech:** Java, Spring Boot, Azure Storage SDK
+
+---
 
 ### 🔹 Azure Cosmos DB Java Demo
-Java application demonstrating Azure Cosmos DB integration using Azure SDK and Maven.
 
-### 🔹 Azure Blob Storage Java Demo
-Cloud storage project showcasing file upload, listing, and download operations using Azure Blob Storage.
+Java application demonstrating Azure Cosmos DB for NoSQL integration using the Azure SDK.
 
-### 🔹 Fraud Detection Microservices System
-Microservices-based backend system using Spring Boot and cloud technologies.
+**Tech:** Java, Azure Cosmos DB, Maven
 
 ---
 
-## 📫 Connect With Me
+## ☁️ Cloud & DevOps Practice
 
-- GitHub: https://github.com/meharshrajvardhan
-- LinkedIn:https://www.linkedin.com/in/harshrajvardhangupta/
+Hands-on experience with:
+
+* Azure Container Apps
+* Azure Kubernetes Service (AKS)
+* Azure Container Registry
+* Azure Database for PostgreSQL
+* Azure Cosmos DB
+* Azure Blob Storage
+* Docker
+* Kubernetes
+* GitHub
 
 ---
 
-⭐ Always learning and building new things in Java and Cloud technologies.
+##  Connect With Me
+
+* **GitHub:** https://github.com/meharshrajvardhan
+* **LinkedIn:** https://www.linkedin.com/in/harshrajvardhangupta/
+
+---
+
+⭐ Building practical backend, cloud, and AI-assisted projects while continuously improving software engineering skills.
